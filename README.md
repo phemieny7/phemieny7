@@ -1,16 +1,75 @@
-### Hi there 👋
+## Hi there 👋 <br> Welcome to my GitHub! 
 
-<!--
-**phemieny7/phemieny7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github][github-shield]][author-github]
+[![LinkedIn][linkedin-shield]][author-linkedin]
+[![Instagram][instagram-shield]][author-instagram]
+[![Twitter][twitter-shield]][author-twitter]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.js
+
+```typescript
+const andre = {
+    fullName: "Oyewo Oluwafemi",
+    pronouns: "he" | "him",
+    code: [Typescript, Javascript, PHP, C#],
+    framework: [ NestJs, AdonisJs, NEXTJs, React-Native],
+    askMeAbout: [
+        "ci/cd", "automation", 
+        "test", "nestjs", "nodejs",
+        "relational database", "non relational database",
+        "optimize code", "web security", 
+        "concurrency", "cloud server", 
+        "backend development", "api", "microservice", 
+        "etc"
+    ],
+    technologies: {
+        backEnd: {
+            ts: [
+                "nodejs", "expressjs"
+                "nestjs"
+            ],
+            db: [
+                "mongodb", "postgresql", 
+                "mysql", "redis", "elasticsearch"
+            ],
+            test: [
+                "jest", "unit_test", 
+                "integration_test",
+                "e2e_test"
+            ],
+        },
+        devOps: {
+            automation: [
+                "jenkins", "github_action",
+                "docker", "docker_compose",
+                "docker_swarm", "serverless"
+            ],
+            cloud: [
+                "aws",
+            ],
+            server: [
+                "nginx", "kafka", "certbot",
+                "letsencrypt", "ubuntu", "centos",
+                "amazon linux"
+            ],
+        },
+        mobile: {
+            react-native: [
+                "Expo React Native"
+            ],
+        }
+    }
+};
+```
+
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white
+
+
+[author-linkedin]: https://www.linkedin.com/in/oyewo-oluwafemi-8bb42b7b/
+[author-instagram]: https://www.instagram.com/phemieny7
+[author-email]: mailto:oyewo.oluwafemi@gmail.com
+[author-github]: https://github.com/phemieny7
