@@ -66,7 +66,7 @@ const andre = {
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white
 
 
 [author-linkedin]: https://www.linkedin.com/in/oyewo-oluwafemi-8bb42b7b/
