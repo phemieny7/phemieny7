@@ -73,3 +73,4 @@ const andre = {
 [author-instagram]: https://www.instagram.com/phemieny7
 [author-email]: mailto:oyewo.oluwafemi@gmail.com
 [author-github]: https://github.com/phemieny7
+[author-twitter]: https://twitter.com/phemieny7
