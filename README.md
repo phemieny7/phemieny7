@@ -27,7 +27,7 @@ const andre = {
         backEnd: {
             ts: [
                 "nodejs", "expressjs"
-                "nestjs"
+                "nestjs", "AdonisJs"
             ],
             db: [
                 "mongodb", "postgresql", 
@@ -49,16 +49,21 @@ const andre = {
                 "aws",
             ],
             server: [
-                "nginx", "kafka", "certbot",
-                "letsencrypt", "ubuntu", "centos",
+                "nginx",
                 "amazon linux"
             ],
         },
         mobile: {
-            react-native: [
+            "react-native": [
                 "Expo React Native"
             ],
-        }
+        },
+        web: {
+            "react": [
+                "Next js",
+                "Remix"
+            ],
+       }
     }
 };
 ```
