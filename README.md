@@ -9,7 +9,7 @@
 ### aboutMe.js
 
 ```typescript
-const andre = {
+const oluwafemi = {
     fullName: "Oyewo Oluwafemi",
     pronouns: "he" | "him",
     code: [Typescript, Javascript, PHP, C#],
