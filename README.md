@@ -63,6 +63,10 @@ const oluwafemi = {
                 "Next js",
                 "Remix"
             ],
+            "PHP":[
+                "Laravel",
+                "Wordpress",
+            ]
        }
     }
 };
