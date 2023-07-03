@@ -13,7 +13,7 @@ const oluwafemi = {
     fullName: "Oyewo Oluwafemi",
     pronouns: "he" | "him",
     code: [Typescript, Javascript, PHP, C#],
-    framework: [ NestJs, AdonisJs, NEXTJs, React-Native],
+    framework: [ NestJs, AdonisJs, Laravel, NEXTJs, React-Native, Unity3d],
     askMeAbout: [
         "ci/cd", "automation", 
         "test", "nestjs", "nodejs",
@@ -21,7 +21,7 @@ const oluwafemi = {
         "optimize code", "web security", 
         "concurrency", "cloud server", 
         "backend development", "api", "microservice", 
-        "etc"
+        "etc",
     ],
     technologies: {
         backEnd: {
